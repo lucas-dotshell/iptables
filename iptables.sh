@@ -2,7 +2,6 @@
 # @(#) iptables.sh - Script for config firewall with iptables
 setterm -foreground green
 echo "################# github.com/lucas-dotshell ##################"
-echo "#################### UniDomBsco D.U.O.S ######################"
 echo ""
 
 # Definindo intervalo de endereço ip para acesso SSH
